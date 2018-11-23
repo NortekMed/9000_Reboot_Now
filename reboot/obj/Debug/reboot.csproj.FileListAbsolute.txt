@@ -1,0 +1,5 @@
+E:\syncro\30-Affaires\9999_TOOLS_DEV-TESTS\reboot_now\reboot\obj\Debug\ResolveAssemblyReference.cache
+E:\syncro\30-Affaires\9999_TOOLS_DEV-TESTS\reboot_now\reboot\bin\Debug\reboot_now.exe
+E:\syncro\30-Affaires\9999_TOOLS_DEV-TESTS\reboot_now\reboot\bin\Debug\reboot_now.pdb
+E:\syncro\30-Affaires\9999_TOOLS_DEV-TESTS\reboot_now\reboot\obj\Debug\reboot_now.exe
+E:\syncro\30-Affaires\9999_TOOLS_DEV-TESTS\reboot_now\reboot\obj\Debug\reboot_now.pdb
